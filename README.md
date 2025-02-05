@@ -12,7 +12,7 @@ Este projeto é uma aplicação simples de Amigo Secreto desenvolvida utilizando
 ## 📸 Capturas de Tela
 
 ### Tela Inicial - Adicionando Participantes
-![Tela Inicial](./screenshots/tela-inicial.png)
+![Tela Inicial](./screenshotsREADME/tela-inicial.png)
 
 ### Após o Sorteio - Exibindo os Resultados
 ![Resultado do Sorteio](./screenshotsREADME/sorteado.png)
