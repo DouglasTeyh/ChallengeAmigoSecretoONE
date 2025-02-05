@@ -1,13 +1,12 @@
 # Amigo Secreto 🎁
 
-Este projeto é uma aplicação simples de Amigo Secreto desenvolvida utilizando **HTML, CSS e JavaScript** puro. Ele permite adicionar participantes, realizar o sorteio automaticamente e exibir os pares sorteados.
+Este projeto é uma aplicação simples de Amigo Secreto desenvolvida utilizando **HTML, CSS e JavaScript** puro. Ele permite adicionar participantes, realizar o sorteio automaticamente e exibir o nome do amigo sorteado.
 
 ## 📌 Funcionalidades
 
 - Adicionar participantes à lista.
 - Remover participantes antes do sorteio.
 - Realizar o sorteio aleatório sem repetir nomes.
-- Exibir os pares sorteados de forma dinâmica.
 - Interface amigável e responsiva.
 
 ## 📸 Capturas de Tela
@@ -24,7 +23,7 @@ Este projeto é uma aplicação simples de Amigo Secreto desenvolvida utilizando
 2. Abra o arquivo `index.html` em seu navegador.
 3. Adicione os participantes clicando no botão correspondente.
 4. Clique no botão "Sortear" para realizar o sorteio.
-5. Veja os pares sorteados na tela.
+5. Veja o nome sorteado na tela.
 
 ## 🛠️ Tecnologias Utilizadas
 
